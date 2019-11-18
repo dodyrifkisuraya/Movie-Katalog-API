@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">iStream</string>
+    <string name="realised_date">Tanggal Rilis :</string>
+    <string name="duration">Durasi :</string>
+    <string name="genre">Jenis :</string>
+    <string name="discription">Diskripsi</string>
+    <string name="directors">Direksi :</string>
+    <string name="original_language">Bahasa Asli :</string>
+    <string name="setting">Pengaturan</string>
+    <string name="pilih_bahasa">Ganti Bahasa</string>
+    <string name="tv_show">Acara TV</string>
+    <string name="movie">Film</string>
+    <string name="rating">Rating : </string>
+    <string name="date_of_release">Tanggal Rilis :</string>
+    <string name="overview">Gambaran Singkat :</string>
+    <string name="back">Kembali</string>
+    <string name="dummyBahasa">Indonesia</string>
+    <string name="dummyOverview">Loren Ipsum dasdjnasjdn</string>
+    <string name="dummyRilis">2 January 2019</string>
+    <string name="dummyRating">(7.5/10) dari 1000 Ratingers</string>
+    <string name="dummyJudul">JUDUL</string>
+</resources>
